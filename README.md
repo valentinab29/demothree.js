@@ -21,3 +21,6 @@ Arquitectura y recorridos virtuales.
 Arte y experiencias interactivas.
 
 Realidad Virtual (VR) y Aumentada (AR).
+
+Websites que lo usan: https://eyes.nasa.gov/apps/mars2020/#/home
+https://bruno-simon.com/?classId=1f173105-57c1-4e0c-bb63-0f15f291df74&assignmentId=1d7e3a5a-4f76-440f-bbd8-67fb678075e9&submissionId=1be7f9fb-bfe0-0465-25b2-ae644c44b0b6
